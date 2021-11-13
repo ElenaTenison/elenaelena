@@ -1,0 +1,10 @@
+@mixin align() {
+  display: flex;
+  align-items: center;
+}
+
+@mixin last-four($num) {
+  &:nth-last-child(4n + #{$num}) {
+    @content;
+  }
+}
