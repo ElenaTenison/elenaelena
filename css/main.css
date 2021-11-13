@@ -796,7 +796,7 @@ body {
 }
 
 .galllery {
-  background-image: linear-gradient(to top, #fff, #fff 60%, #fff5f6 40%, #fff5f6 40%), url("../images/gallery/gallery-mob-1x.png");
+  background-image: linear-gradient(to top, #fff, #fff 57%, #fff5f6 43%, #fff5f6 43%), url("../images/gallery/gallery-mob-1x.png");
   background-position: center;
   background-size: cover;
   width: 100%;
